@@ -11,7 +11,7 @@ The integration of **advanced myoelectric prosthetics** into the human body is a
 This repository contains a **literature review** exploring how the brain adapts to prosthetic limbs through **neuroplasticity** and **cortical remapping**, and how **AI technologies**—such as **brain-computer interfaces (BCIs)** and **adaptive machine learning**—support this adaptation.  
 
 ---
-## 🔬 Scientific Concepts
+##  Scientific Concepts
 
 ### 1. Neuroprosthetic
 A **neuroprosthetic** is a device, such as a cochlear implant or a deep brain stimulator, that replaces or modulates lost or impaired neural functions by either providing electrical stimulation to neural tissue or by picking up signals from the brain to control external devices. This interdisciplinary field of engineering and neuroscience aims to restore motor, sensory, and cognitive functions for individuals affected by neurological conditions or injuries, bridging the gap between the nervous system and external technology. 
@@ -107,9 +107,6 @@ This allows users to regain motor control over prosthetic limbs by reallocating 
 - Research synthesis and academic writing  
 - Ethics and societal considerations in neurotechnology  
 
-
-
-
 ---
 
 ## Future Directions
@@ -119,4 +116,3 @@ This allows users to regain motor control over prosthetic limbs by reallocating 
 
 ---
 
-**This repository demonstrates interdisciplinary expertise in neuroscience, AI, and human-centered engineering, making it a strong portfolio piece for AI and biomedical research opportunities.**
